@@ -1,0 +1,3 @@
+<dependencies>
+  <androidPackage spec="com.adpushup:apmediationsdk:2.0.2" />
+</dependencies>
